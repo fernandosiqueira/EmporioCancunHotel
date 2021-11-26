@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "767502837814",
+    "project_id": "hotel-d5a25",
+    "storage_bucket": "hotel-d5a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767502837814:android:5f99f5e3cf928aaed81097",
+        "android_client_info": {
+          "package_name": "com.example.emporiocancunhotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767502837814-91ietp9uia8tln8f9b630qu7r4j98nu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emporiocancunhotel",
+            "certificate_hash": "0638f9ce569796e9b6c5be4932c51727b782b6e4"
+          }
+        },
+        {
+          "client_id": "767502837814-b8ekrckb07qv8d8ftp7aihvet5ol67v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CImEZWBh2YAxXlY4ow6SLSGliLHYtG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767502837814-b8ekrckb07qv8d8ftp7aihvet5ol67v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
